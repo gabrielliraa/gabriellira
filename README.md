@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Lira
-- 📱 Trabalho com desenvolvimento de aplicações móveis
-- 📘 Estudando o framework React Native
+- 📱 Trabalho com desenvolvimento de aplicações mobile
+- 📘 Estudando desenvolvimento mobile
 - 📌 Veja meu Linkedin: https://www.linkedin.com/in/gabriel-lira-737b87207/
 
 <div align="center">
